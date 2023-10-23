@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/11-Stack-Queue.iml" filepath="$PROJECT_DIR$/.idea/11-Stack-Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/ArrayPractice.iml" filepath="$PROJECT_DIR$/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/ArrayPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/Demerging/Demerging.iml" filepath="$PROJECT_DIR$/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/Demerging/Demerging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Exercise/MyGenericStack/MyLinkedListQueue/IntegerArrayReverse/IntegerArrayReverse.iml" filepath="$PROJECT_DIR$/Practice-Exercise/MyGenericStack/MyLinkedListQueue/IntegerArrayReverse/IntegerArrayReverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Exercise/MyGenericStack/MyGenericStack.iml" filepath="$PROJECT_DIR$/Practice-Exercise/MyGenericStack/MyGenericStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Exercise/MyGenericStack/MyLinkedListQueue/MyLinkedListQueue.iml" filepath="$PROJECT_DIR$/Practice-Exercise/MyGenericStack/MyLinkedListQueue/MyLinkedListQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Exercise/Practice-Exercise.iml" filepath="$PROJECT_DIR$/Practice-Exercise/Practice-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Exercise/MyGenericStack/MyLinkedListQueue/QueueExercise/QueueExercise.iml" filepath="$PROJECT_DIR$/Practice-Exercise/MyGenericStack/MyLinkedListQueue/QueueExercise/QueueExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Exercise/MyGenericStack/MyLinkedListQueue/QueuePractice/QueuePractice.iml" filepath="$PROJECT_DIR$/Practice-Exercise/MyGenericStack/MyLinkedListQueue/QueuePractice/QueuePractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/checkBracket/checkBracket.iml" filepath="$PROJECT_DIR$/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/checkBracket/checkBracket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/isPalindrome/isPalindrome.iml" filepath="$PROJECT_DIR$/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/isPalindrome/isPalindrome.iml" />
+    </modules>
+  </component>
+</project>
